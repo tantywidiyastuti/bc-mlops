@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# MLflow
+mlruns/
+mlflow.db
+mlartifacts/
+.trash/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
